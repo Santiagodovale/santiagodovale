@@ -15,7 +15,7 @@ Graduando em Gestão da Tecnologia da Informação (Estácio) e entusiasta do de
 ### Meus Projetos em Destaque
 
 * 🎮 **[Requiem for the Damned](https://github.com):** Um jogo no estilo Metroidvania focado na aplicação prática de Máquina de Estados Finitos (FSM) e padrões de arquitetura na Godot Engine.
-* 📊 **[Biblioteca-PostgreSQL](https://github.com):** Modelagem completa de banco de dados relacional simulando regras de negócio de inventário, controle de usuários e movimentação de estoque.
+* 📊 **[Biblioteca-PostgreSQL]([https://github.com](https://github.com/Santiagodovale/Biblioteca-PostgreSQL-)):** Modelagem completa de banco de dados relacional simulando regras de negócio de inventário, controle de usuários e movimentação de estoque.
 
 ---
 
